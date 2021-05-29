@@ -1,0 +1,2 @@
+# deneme script
+cls
