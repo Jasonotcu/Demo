@@ -14,6 +14,6 @@
 
 SOn degisiklik ekleniyor. Yei branch uzerinde calisilmaya baslaniyor.
 
-updates branch da cilsirken yeni eklemeler yapiyorum.
+updates branch da cilsirken yeni eklemeler (Bu degisiklikleri very-bad uzerinde yaptim.) yapiyorum.
 >>>>>>> updates
 This is a simple readme file.
